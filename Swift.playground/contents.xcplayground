@@ -5,5 +5,6 @@
         <page name='Operators_Data_Types'/>
         <page name='Strings'/>
         <page name='Conditionals'/>
+        <page name='Loops_with_Conditions'/>
     </pages>
 </playground>
