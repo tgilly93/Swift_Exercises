@@ -4,5 +4,6 @@
         <page name='Constant_Variables'/>
         <page name='Operators_Data_Types'/>
         <page name='Strings'/>
+        <page name='Conditionals'/>
     </pages>
 </playground>
