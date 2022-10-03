@@ -5,6 +5,7 @@ print("The temperature on \(day) is \(dailyTemperature) F")
 
 var temperature = 70
 temperature = 80
+temperature = 81
 print("The temperature on \(day) morning is \(temperature) F")
 
 let weeklyTemperature = 75
