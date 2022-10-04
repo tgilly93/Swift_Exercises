@@ -8,5 +8,6 @@
         <page name='Loops_with_Conditions'/>
         <page name='Optionals'/>
         <page name='Arrays'/>
+        <page name='Tuples'/>
     </pages>
 </playground>
