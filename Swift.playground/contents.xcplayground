@@ -9,5 +9,6 @@
         <page name='Optionals'/>
         <page name='Arrays'/>
         <page name='Tuples'/>
+        <page name='Dictionaries'/>
     </pages>
 </playground>
