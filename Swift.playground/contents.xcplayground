@@ -6,5 +6,7 @@
         <page name='Strings'/>
         <page name='Conditionals'/>
         <page name='Loops_with_Conditions'/>
+        <page name='Optionals'/>
+        <page name='Arrays'/>
     </pages>
 </playground>
