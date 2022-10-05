@@ -15,5 +15,7 @@
         <page name='Functions2'/>
         <page name='Closures'/>
         <page name='Functions_and_Closures'/>
+        <page name='Bank_Acct_Simulator'/>
+        <page name='Using_Bank_Acct_Sim'/>
     </pages>
 </playground>
