@@ -11,5 +11,6 @@
         <page name='Tuples'/>
         <page name='Dictionaries'/>
         <page name='Loops_With_Collectors'/>
+        <page name='Functions'/>
     </pages>
 </playground>
