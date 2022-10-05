@@ -14,5 +14,6 @@
         <page name='Functions'/>
         <page name='Functions2'/>
         <page name='Closures'/>
+        <page name='Functions_and_Closures'/>
     </pages>
 </playground>
